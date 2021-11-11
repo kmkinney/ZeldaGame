@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gridworld4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VsCodeZelda/Zelda/gridworld.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

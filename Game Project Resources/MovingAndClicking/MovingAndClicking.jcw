@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MovingAndClicking</label>
+	</settings>
+	<users>
+		<user>
+			<path>MovingAndClicking.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MovingAndClicking.jcp</path>
+		</project>
+	</projects>
+</workspace>

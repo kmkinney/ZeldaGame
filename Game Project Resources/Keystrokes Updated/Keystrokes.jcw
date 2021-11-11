@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Keystrokes</label>
+	</settings>
+	<users>
+		<user>
+			<path>Keystrokes.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Keystrokes.jcp</path>
+		</project>
+	</projects>
+</workspace>

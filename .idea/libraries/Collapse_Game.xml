@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Collapse Game">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Game Project Resources/Collapse Game/CSP-PlayCollapse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Game Project Resources/Collapse Game/gridworld.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

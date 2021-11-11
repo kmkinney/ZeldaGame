@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ZeldaGame</label>
+		<id>23</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>ZeldaGame2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ZeldaGame.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,25 @@
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W                                      W
+W                    F                 W
+W                    F             F  2D
+W                    F             F   W
+W        FFFFFFFFFFFFFFFFFFFF     FFFFFW
+W        F                             W
+W        F                             W
+W        F                       S     W
+W        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFW
+W                      F               W
+W                      F              6 
+W                      F               W
+W               F      FFFFFFFFFF      W
+W               F                      W
+W       O       F                      W
+W               F                      W
+W               F      FFFFFFFFFFFFFFFFW
+W               F           F          W
+ 4              FS          F          W
+W               F                  F   W
+WFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF   W
+W                                      W
+W    L                                 W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW

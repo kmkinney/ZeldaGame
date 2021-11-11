@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Keystrokes</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Keystrokes</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>..\..\..\..\..\..\..\Students\kevin.beck.1\Desktop\Submit\_Files Lab_Unit 11\Item.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\..\..\..\..\Students\kevin.beck.1\Desktop\Submit\_Files Lab_Unit 11\Shop.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\..\..\..\..\Students\kevin.beck.1\Desktop\Submit\_Files Lab_Unit 11\ShoppingCart.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

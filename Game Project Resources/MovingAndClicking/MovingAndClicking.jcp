@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>MovingAndClicking</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>GameRunner</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Diamond.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Emerald.java</path>
+			</fileitem>
+			<fileitem>
+				<path>GameRunner.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Gem.java</path>
+			</fileitem>
+			<fileitem>
+				<path>GemWorld.java</path>
+			</fileitem>
+			<fileitem>
+				<path>gridworld.jar</path>
+			</fileitem>
+			<fileitem>
+				<path>GUIController.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Ruby.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

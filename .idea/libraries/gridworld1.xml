@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gridworld1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Game Project Resources/MovingAndClicking/gridworld.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
